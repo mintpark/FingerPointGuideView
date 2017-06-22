@@ -1,9 +1,8 @@
 //
 //  FingerPointGuideViewController.swift
-//  Memebox
 //
-//  Created by mememacpro on 2017. 2. 10..
-//  Copyright © 2017년 memebox. All rights reserved.
+//  Created by mint on 2017. 2. 10..
+//  Copyright © 2017년 mint. All rights reserved.
 //
 
 import UIKit
